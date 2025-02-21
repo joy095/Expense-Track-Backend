@@ -16,4 +16,4 @@ COPY . .
 EXPOSE 5000
 
 # Start the server
-CMD ["pnpm", "start"]
+CMD ["npm", "start"]
